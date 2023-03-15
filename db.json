@@ -1,0 +1,34 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Freela",
+      "amount": 300
+    },
+    {
+      "name": "Salário",
+      "amount": 3200,
+      "id": 3
+    },
+    {
+      "name": "Pizza",
+      "amount": -50,
+      "id": 6
+    },
+    {
+      "name": "Farra pesada",
+      "amount": 1000,
+      "id": 7
+    },
+    {
+      "name": "Drugs",
+      "amount": 300,
+      "id": 8
+    },
+    {
+      "name": "Larica",
+      "amount": 200,
+      "id": 9
+    }
+  ]
+}
